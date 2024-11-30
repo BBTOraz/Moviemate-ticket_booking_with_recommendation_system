@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "483791539800",
+    "firebase_url": "https://moviemate-e9763-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "moviemate-e9763",
+    "storage_bucket": "moviemate-e9763.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483791539800:android:72b42c4a9e4dc2d9a3442d",
+        "android_client_info": {
+          "package_name": "com.example.moviemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3xOwj3Rv_CllcV3omIIhyZURHJ41WV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
